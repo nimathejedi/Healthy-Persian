@@ -1,6 +1,22 @@
+<!DOCTYPE html>
 <html>
-<header><title>Your Key To Healthy Persian Cooking</title></header>
-<body>
-SITE UNDER CONSTRUCTION
-</body>
+	<head>
+		<title>Your Key To Healthy Persian Cooking</title>
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>SITE UNDER CONSTRUCTION</h1>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+	
+	</body>
 </html>
